@@ -57,3 +57,14 @@ public/workbox-*.js.map
 
 # Temp files
 nul
+
+# Local documentation (keep only README.md in repo)
+CAMBIOS-BRANDING.md
+CLAUDE.md
+ESTADO-FINAL.md
+GUIA-ACCESO-ADMIN.md
+IMPLEMENTACION-V3-RESUMEN.md
+PROJECT_STRUCTURE.md
+PWA-ICONS-SETUP.md
+SUPABASE_SETUP.md
+SUPABASE_STORAGE_SETUP.md
